@@ -42,7 +42,7 @@
     "html-to-image": "^1.11.11",
     "i18next": "^22.4.15",
     "jspdf": "^2.5.1",
-    "langchain": "^0.0.63",
+    "langchain": "^0.0.141",
     "lodash": "^4.17.21",
     "micro": "^10.0.1",
     "micro-cors": "^0.1.1",
